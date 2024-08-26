@@ -47,7 +47,7 @@
 
 .second-pic {
    display: flex;
-   margin: 230px auto;
+   margin: 130px 50px auto;
 }
 
 .section-text {
@@ -76,7 +76,7 @@ li {
 .skills {
    display: flex;
    justify-content: space-around;
-   margin: 230px auto;
+   margin: 100px auto;
 }
 
 .head-title {
@@ -92,6 +92,8 @@ li {
    position: relative;
    top: 50px;
    margin: 230px auto;
+   max-width: 80% auto;
+
 }
 
 .text-gra {
@@ -115,5 +117,56 @@ li {
    height: 64px;
    color: #F15B22;
    text-align: center;
+   font-weight: 600;
+}
+
+.footer-st {
+   width: 1600px;
+   height: 577px;
+   background: #151414;
+   display: flex;
+   position: relative;
+}
+
+.footer-st {
+   color: white;
+   display: flex;
+}
+
+.footer-title {
+   color: #F8F8F8;
+   font-size: 45px;
+   font-weight: 700;
+}
+
+.footer-description {
+   width: 485px;
+   color: #FFF;
+   font-weight: 400;
+   line-height: 26px;
+}
+
+.star {
+   padding-top: 200px;
+   padding-left: 230px;
+}
+
+.footer-stor {
+   padding-top: 130px;
+}
+
+.abul {
+   background: #151414;
+   width: 146px;
+   height: 21px;
+   margin-top: 20px;
+   padding: 21px 150px 21px 21px;
+   margin-bottom: 15px;
+}
+
+.sab {
+   color: #F15B22;
+   font-family: Inter;
+   font-size: 20px;
    font-weight: 600;
 }
