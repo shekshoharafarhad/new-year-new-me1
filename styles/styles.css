@@ -1,0 +1,119 @@
+.banner {
+   position: relative;
+   display: flex;
+}
+
+.banner img {
+   max-width: 100%;
+   height: auto;
+}
+
+.banner-text {
+   position: absolute;
+   color: #151414;
+   top: 65px;
+   left: 130px;
+   padding-left: 630px;
+   text-align: right;
+   /* font-size: 45px; */
+   font-weight: 700;
+   margin-right: 90px;
+}
+
+.banner-title {
+   color: #151414;
+   text-align: right;
+   font-size: 65px;
+   font-weight: 700;
+}
+
+.banner-description {
+   color: #444343;
+   text-align: right;
+   font-weight: 400;
+   line-height: 26px;
+}
+
+.btn {
+   border-radius: 5px;
+   background: #F15B22;
+   border: 0;
+   padding: 20px 25px;
+   color: #FFF;
+   text-align: right;
+   font-size: 20px;
+   font-weight: 600;
+}
+
+.second-pic {
+   display: flex;
+   margin: 230px auto;
+}
+
+.section-text {
+   margin-top: 300px;
+   margin-left: 100px;
+}
+
+.section-title {
+   width: 280px;
+   color: #151414;
+   font-weight: 700;
+   font-size: 40px;
+}
+
+.section-description {
+   width: 416px;
+   color: #444343;
+   font-weight: 350;
+   margin-bottom: 24px;
+}
+
+li {
+   list-style: none;
+}
+
+.skills {
+   display: flex;
+   justify-content: space-around;
+   margin: 230px auto;
+}
+
+.head-title {
+   color: #151414;
+   font-size: 40px;
+   font-weight: 700;
+   text-align: center;
+
+}
+
+.banner-gradient {
+   display: flex;
+   position: relative;
+   top: 50px;
+   margin: 230px auto;
+}
+
+.text-gra {
+   position: relative;
+   top: 40px;
+   right: 40px;
+   right: 1030px
+}
+
+.gradient-title {
+   color: #FFF;
+   font-size: 40px;
+   font-weight: 700;
+   width: 459px;
+}
+
+.btn {
+   border-radius: 5px;
+   background: #FFF;
+   width: 160px;
+   height: 64px;
+   color: #F15B22;
+   text-align: center;
+   font-weight: 600;
+}
